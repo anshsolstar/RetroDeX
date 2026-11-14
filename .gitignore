@@ -1,0 +1,36 @@
+# Visual Studio local files
+.vs/
+**/.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+*.sdf
+*.opensdf
+UpgradeLog*.htm
+
+# Simulator build output
+Simulator/Output/
+Simulator/**/Debug/
+Simulator/**/x64/
+Simulator/**/x86/
+Simulator/**/ipch/
+
+# Generated binaries
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.pch
+*.idb
+*.tlog
+
+# Local backup files
+*_backup.*
+*_pre_menu.ino
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
