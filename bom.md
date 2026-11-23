@@ -57,6 +57,6 @@
 - All links are provided in the link section of components, and that can vary by country because the the website and suppliers are majorly from India if someone from another country is making this, they have to find a supplier nearby them.
 - Shipping and taxes are not included in the "BOM" file because many products are from different suppliers, and I may purchase the components from offline stores (if online not available).
 - Do not purchase provisional components until approved.
-- The quantity mentioned in the list is for two devices.
+- The quantity mentioned in the list is for two devices. 
 - if you didn't understand the "how I'II buy" column, its like if i don't find the component or the product on the online store or it doesn't match the delivery time that I expect I'll try to find the same product in the offline market And buy from there.
 - In some of the products, you might see I have written I will buy in an "offline store," but I have mentioned the link. That is why, because which product links I am able to find, I have mentioned in the list, and some of them I have not. so I will buy them offline. 
