@@ -36,7 +36,7 @@
 | Wire Cutter | Cuts hookup wires | 1 | $1.39 | $1.39 | [Buy](https://www.amazon.in/Electron-Multitech-Cutter-Electrical-industrial/dp/B0DF426PG4/ref=asc_df_B0DF426PG4?mcid=04f350901c1c3668b4c51978b57d0ba3&tag=googleshopdes-21&linkCode=df0&hvadid=724376712409&hvpos=&hvnetw=g&hvrand=12714507202963414537&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9301902&hvtargid=pla-2502412449755&hvcampaign=21994574056&psc=1&hvocijid=12714507202963414537-B0DF426PG4-&hvexpln=0&gad_source=4) | Offline store |
 | Precision Screwdriver Set | Tightening M2.5 screws and assembling the enclosure | 1 | $3.12 | $3.12 | [Buy](https://blinkit.com/prn/hashwow-24-in-1-precision-screw-driver-set/prid/611369) | offline store |
 | USB-A to USB-C Data Cable | Programming and testing | 1 | $2.58 | $2.58 | [Buy](https://www.amazon.in/AmazonBasics-Braided-Charging-Cable-Smartphone/dp/B0BPCL2DXZ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AJ6SIZC8YQDZX) | offline store |
-| 5V 2A USB Adapter | Bench testing | 1 | $2.70 | $2.70 | [Buy](YOUR_LINK
+| 5V 2A USB Adapter | Bench testing | 1 | $2.70 | $2.70 | [Buy]()
 | Verify |
 
 ## 5. Budget Summary
