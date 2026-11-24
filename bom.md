@@ -1,7 +1,7 @@
 # RetroDex — Bill of Materials (BOM)
 
-> Project: RetroDex
-> Version: V1
+> Project: RetroDex |
+> Version: V1 |
 > Devices: 2
 
 ## 1. Main Electronics
@@ -36,20 +36,19 @@
 | Wire Cutter | Cuts hookup wires | 1 | $1.39 | $1.39 | [Buy](https://www.amazon.in/Electron-Multitech-Cutter-Electrical-industrial/dp/B0DF426PG4/ref=asc_df_B0DF426PG4?mcid=04f350901c1c3668b4c51978b57d0ba3&tag=googleshopdes-21&linkCode=df0&hvadid=724376712409&hvpos=&hvnetw=g&hvrand=12714507202963414537&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9301902&hvtargid=pla-2502412449755&hvcampaign=21994574056&psc=1&hvocijid=12714507202963414537-B0DF426PG4-&hvexpln=0&gad_source=4) | Offline store |
 | Precision Screwdriver Set | Tightening M2.5 screws and assembling the enclosure | 1 | $3.12 | $3.12 | [Buy](https://blinkit.com/prn/hashwow-24-in-1-precision-screw-driver-set/prid/611369) | offline store |
 | USB-A to USB-C Data Cable | Programming and testing | 1 | $2.58 | $2.58 | [Buy](https://www.amazon.in/AmazonBasics-Braided-Charging-Cable-Smartphone/dp/B0BPCL2DXZ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AJ6SIZC8YQDZX) | offline store |
-| 5V 2A USB Adapter | Bench testing | 1 | $2.70 | $2.70 | [Buy]()
-| Verify |
+| 5V 2A USB Adapter | Bench testing | 1 | $2.70 | $2.70 | [Buy](https://robocraze.com/products/5v-2a-erd-adapter-with-micro-usb-cable?variant=40192675512473&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=17937704573&adgroupid=&keyword=&device=c&gad_source=1&gad_campaignid=17931338845&gbraid=0AAAAADgHQvaDz4xCrlI76amWzyxapzk4k&gclid=Cj0KCQiAworYBhDoARIsAP5ft3Jr8oGTJfyJIXeUFE8Krdpo524hEtxkQs5nCO3Ck3vWJv_1UBe04KIaAjQjEALw_wcB) | offline store |
 
 ## 5. Budget Summary
 
-| Category | Estimated Cost ($) |
-|---|---:|
-| Main Electronics | TBD |
-| Mechanical Components | TBD |
-| Wiring and Assembly | TBD |
-| Tools | TBD |
+| Category | Estimated Cost ($) |  per unit ($)
+|---|---:|---:|
+| Main Electronics | $130.46 | $65.23 |
+| Mechanical Components | $31.20 | $15.60 |
+| Wiring and Assembly | $6.90 – $8.90 | $3.45 – $4.45 |
+| Tools | $23.78 | ***One-time setup cost*** |
 | Shipping | TBD |
-| Taxes | TBD |
-| **Grand Total** | **TBD** |
+| Taxes/GST | TBD |
+| **Grand Total** | **$192.34 – $194.34** | **$111.51 – $112.51** |
 
 ## 6. Notes
 
@@ -60,3 +59,25 @@
 - The quantity mentioned in the list is for two devices.
 - if you didn't understand the "how I'II buy" column, its like if i don't find the component or the product on the online store or it doesn't match the delivery time that I expect I'll try to find the same product in the offline market And buy from there.
 - In some of the products, you might see I have written I will buy in an "offline store," but I have mentioned the link. That is why, because which product links I am able to find, I have mentioned in the list, and some of them I have not. so I will buy them offline. 
+
+## 7. Official Manufacturer Documentation
+
+The following official resources are provided to help reviewers and builders verify the hardware specifications, electrical connections, and mechanical requirements of RetroDex.
+
+### Main Development Board
+
+- **Manufacturer:** Waveshare
+- **Product:** ESP32-S3-Touch-LCD-4.3
+- **SKU:** 25948
+- [Official Product Documentation](https://docs.waveshare.com/ESP32-S3-Touch-LCD-4.3)
+
+### Hardware References
+
+| Document | Purpose | Official Link |
+|---|---|---|
+| Board Documentation | Product specifications, GPIO mapping and interfaces | [Open](https://docs.waveshare.com/ESP32-S3-Touch-LCD-4.3) |
+| Circuit Schematic | Electrical connections and circuit verification | [PDF](https://files.waveshare.com/wiki/ESP32-S3-Touch-LCD-4.3/manual/ESP32-S3-Touch-LCD-4.3-Sch.pdf) |
+| Resources and Documents | 3D models, example code and component datasheets | [Open](https://docs.waveshare.com/ESP32-S3-Touch-LCD-4.3/Resources-And-Documents) |
+| User Guide | Setup instructions and hardware precautions | [Open](https://docs.waveshare.com/ESP32-S3-Touch-LCD-4.3/Instructions-For-Use) |
+
+**Documentation Note:** These links refer to the standard ESP32-S3-Touch-LCD-4.3 board (SKU 25948), not the 4.3B or 4.3C variants.
