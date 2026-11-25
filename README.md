@@ -113,7 +113,7 @@ flowchart TD
 
 ## 6. Hardware Architecture
 
-<img width="812" height="502" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/0e534743-c7e5-4690-bf56-f996bb2654e7" />
+<img width="812" height="502" alt="Untitled Diagram drawio (1)" src="https://github.com/user-attachments/assets/4719ea1d-6294-4ce9-a8e6-7715a6566ebc" />
 
 ## 7. Software Interface Design
 
