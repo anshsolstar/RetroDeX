@@ -1,6 +1,6 @@
 # RetroDex
 
-**A Retro-Inspired Digital Card Viewer**
+**A pokedex-Inspired Digital Card Viewer**
 
 > Project Version: V1  
 > Device Target: 2 handheld units  
@@ -21,7 +21,7 @@ The project is being designed around the Waveshare ESP32-S3-Touch-LCD-4.3 develo
 - Support local video playback without requiring an internet connection.
 - Explore wireless card trading between devices in future development.
 
-## Planned Features (V1)
+## 3. Planned Features
 
 ### 1. Digital Card Viewer
 - Display digital cards in full-screen mode.
@@ -113,11 +113,11 @@ flowchart TD
 
 ## 6. Hardware Architecture
 
-The hardware architecture diagram will be added here.
+<img width="812" height="502" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/0e534743-c7e5-4690-bf56-f996bb2654e7" />
 
 ## 7. Software Interface Design
 
-Screenshots and mockups of the planned RetroDex interface will be added here.
+<img width="2048" height="1608" alt="download" src="https://github.com/user-attachments/assets/b411791b-96ef-4626-900a-ee87eed03626" />
 
 ## 8. Development Status
 
@@ -133,7 +133,7 @@ The bill of materials and initial user interaction flow have been prepared. Hard
 
 ## 10. Project Documentation
 
-- [Bill of Materials](BOM.md)
+- [Bill of Materials](https://github.com/anshsolstar/RetroDeX/blob/main/bom.md)
 - User Interaction Flow
 - Hardware Architecture
 - Software Interface Design
