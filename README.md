@@ -159,3 +159,11 @@ The bill of materials and initial user interaction flow have been prepared. Hard
 - User Interaction Flow
 - Hardware Architecture
 - Software Interface Design
+
+## 11. Mechanical Assembly & Fastening
+
+The enclosure CAD design currently represents the proposed housing and component layout. The M2.5 screws and nuts listed in the BOM are intended to be used for securing the enclosure during assembly.
+
+However, the screw mounting points and nut-retention mechanism are still under development and have not yet been finalized or tested. The initial prototype will be used to test component fitment and enclosure assembly, after which the fastening mechanism will be refined.
+
+The current CAD design and BOM therefore represent the proposed design, rather than a fully validated mechanical assembly.
