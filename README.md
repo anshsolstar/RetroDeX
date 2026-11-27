@@ -84,30 +84,41 @@ See [BOM.md](https://github.com/anshsolstar/RetroDeX/blob/main/bom.md) for the c
 flowchart TD
     A([Open RetroDex]) --> B[Collection Screen]
     B --> C{Choose a section}
+
     C -->|Browse Cards| D[Select a Card]
     C -->|Video Player| V[Open Video Player]
+
     D --> E[Full-Screen Card Viewer]
     E --> F{User Action}
-    F -->|Swipe Left| G[Display Next Card]
-    F -->|Swipe Right| H[Display Previous Card]
+
+    F -->|Double-Tap Left| G[Display Next Card]
+    F -->|Double-Tap Right| H[Display Previous Card]
     F -->|Swipe Down| I[Show Control Bar]
     F -->|Back to Collection| B
+
     G --> E
     H --> E
+
     I --> J{Select Control}
     J -->|Next| G
     J -->|Previous| H
     J -->|Hide Controls| E
+
+    E -->|Swipe Up or Tap Outside| E
+
     V --> K[Browse Stored Videos]
     K --> L[Select a Video]
     L --> M[Video Playback Screen]
+
     M --> N{Playback Controls}
     N -->|Play / Pause| M
     N -->|Seek Progress Bar| M
     N -->|Back to Videos| K
+
     M --> O[Video Ends]
     O --> P[Playback Stops]
     P --> K
+
     K -->|Back to Collection| B
 ```
 
