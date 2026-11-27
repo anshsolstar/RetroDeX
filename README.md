@@ -137,3 +137,14 @@ The bill of materials and initial user interaction flow have been prepared. Hard
 - User Interaction Flow
 - Hardware Architecture
 - Software Interface Design
+
+```mermaid
+flowchart TD
+    A[3.7V LiPo Battery] --> B[Waveshare ESP32-S3 Board]
+    C[microSD Card] --> B
+    B --> D[4.3-inch LCD Display]
+    E[Touch Input] --> B
+    B --> F[Card Viewer]
+    B --> G[Local Video Player]
+    C --> H[Stored Card Images & Videos]
+    ```
