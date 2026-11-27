@@ -115,6 +115,17 @@ flowchart TD
 
 <img width="812" height="502" alt="Untitled Diagram drawio (1)" src="https://github.com/user-attachments/assets/4719ea1d-6294-4ce9-a8e6-7715a6566ebc" />
 
+```mermaid
+flowchart TD
+    A[3.7V LiPo Battery] --> B[Waveshare ESP32-S3 Board]
+    C[microSD Card] --> B
+    B --> D[4.3-inch LCD Display]
+    E[Touch Input] --> B
+    B --> F[Card Viewer]
+    B --> G[Local Video Player]
+    C --> H[Stored Card Images & Videos]
+```
+
 ## 7. Software Interface Design
 
 <img width="2048" height="1608" alt="download" src="https://github.com/user-attachments/assets/b411791b-96ef-4626-900a-ee87eed03626" />
@@ -137,14 +148,3 @@ The bill of materials and initial user interaction flow have been prepared. Hard
 - User Interaction Flow
 - Hardware Architecture
 - Software Interface Design
-
-```mermaid
-flowchart TD
-    A[3.7V LiPo Battery] --> B[Waveshare ESP32-S3 Board]
-    C[microSD Card] --> B
-    B --> D[4.3-inch LCD Display]
-    E[Touch Input] --> B
-    B --> F[Card Viewer]
-    B --> G[Local Video Player]
-    C --> H[Stored Card Images & Videos]
-    ```
